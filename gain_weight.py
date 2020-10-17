@@ -1,0 +1,2 @@
+def gain_weight():	#Tells different food items which help in gaining weight
+	print("Nuts: Almonds, walnuts, macadamia nuts, peanuts, etc.\nDried fruit: Raisins, dates, prunes and others.\nHigh-fat dairy: Whole milk, full-fat yogurt, cheese, cream.\nFats and oils: Extra virgin olive oil and avocado oil.\nGrains: Whole grains like oats and brown rice.\nMeat: Chicken, beef, pork, lamb, etc. Choose fattier cuts.\nTubers: Potatoes, sweet potatoes and yams.\nDark chocolate, avocados, peanut butter, coconut milk, granola, trail mixes.\n")
