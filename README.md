@@ -6,7 +6,7 @@ This chatbot takes care of your mental and physical fitness
 # TEAM PROJECT(3 members)
 18pa1a05c6@vishnu.edu.in P N S S D Mallikarjun worked on functions mental_health(), return_quote(), bot(), start() and some other functions related to mental health</br> 
 18pa1a0565@vishnu.edu.in K Neelaveni worked on functions exercise(), food() and some other functions related to physical health and diet</br>
-16pa1a04c1@vishnu.edu.in N Durga Vara Prasad worked on functions greet(), welcome(name), findBMI(), and some other functions.
+16pa1a04c1@vishnu.edu.in N Devi Vara Prasad worked on functions greet(), welcome(name), findBMI(), and some other functions.
 We divided the whole concept int 3 things and we created different python files for specific functions and finally we integrated them through function calls as shown in the below image.
 # WHAT IT DOES
 This is a chatbot which helps you to manage your physical and mental fitness as well. 
